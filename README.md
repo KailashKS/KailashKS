@@ -9,7 +9,7 @@ I am currently pursuing **Data Science** from NIIT University. I love working wi
  
  How to reach me?
 
- <div class="main">
+ <div>
 	<a href="https://www.w3schools.com">
 		<i class="fab fa-linkedin-in"></i>
 	</a>
@@ -26,13 +26,6 @@ I am currently pursuing **Data Science** from NIIT University. I love working wi
 		<i class="fab fa-telegram"></i>
 	</a>
  </div>
-
- <style>
- .main a{
-	 padding-right:20px;
-	 text-decoration:none;
- }
- </style>
  
 <!--
 **KailashKS/KailashKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
