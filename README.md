@@ -1,4 +1,4 @@
-### Hi, I am Kailash <img src="https://raw.githubusercontent.com/KailashKS/KailashKS/main/hand_wave.gif" width="24px"/>
+### Hi, I am Kailash! <img src="https://raw.githubusercontent.com/KailashKS/KailashKS/main/hand_wave.gif" width="24px"/>
 
 I am currently pursuing **Under Gradutation** from NIIT University specialising in **Data Science**. <br>
   
@@ -8,11 +8,8 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
   - 📱 Have experience in Mobile App Development
  
  ### How to reach me?
-
-- <a href="https://www.linkedin.com/in/kailashks/"><img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/linkedin-in-brands.svg" height="30px" width="30px"/></a> 
-
-- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/envelope-solid.svg" height="30px" width="30px"/>
-- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/telegram-brands.svg" height="30px" width="30px"/>
+ 
+ <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" align="center" src="https://github.com/KailashKS/KailashKS/blob/main/Email.png" height="50px"/>
 
  
 <!--
