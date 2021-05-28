@@ -9,15 +9,15 @@ I am currently pursuing **Data Science** from NIIT University. I love working wi
 
  <div>
 	<a href="https://www.linkedin.com/in/kailashks/" >
-		<img align="center" src="https://raw.githubusercontent.com/KailashKS/KailashKS/916d6f2aa6c8babf1065699bc7e1fbd2f8bc73d3/envelope-solid.svg" height="30px" width="30px">git ad
+		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/linkedin-in-brands.svg" height="30px" width="30px">
 	</a>
 	&nbsp;
 	<a href="https://www.linkedin.com/in/kailashks/">
-		<img align="center" src="https://raw.githubusercontent.com/KailashKS/KailashKS/916d6f2aa6c8babf1065699bc7e1fbd2f8bc73d3/linkedin-in-brands.svg" height="30px" width="30px"/>
+		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/envelope-solid.svg" height="30px" width="30px"/>
 	</a>
 	&nbsp;
 	<a href="https://www.linkedin.com/in/kailashks/">
-		<img align="center" src="https://raw.githubusercontent.com/KailashKS/KailashKS/916d6f2aa6c8babf1065699bc7e1fbd2f8bc73d3/telegram-brands.svg" height="30px" width="30px"/>
+		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/telegram-brands.svg" height="30px" width="30px"/>
 	</a>
 	&nbsp;
  </div>
