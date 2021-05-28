@@ -9,7 +9,10 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
  
  ### How to reach me?
 
+- <img align="center" href="www.google.com" src="https://github.com/KailashKS/KailashKS/blob/main/linkedin-in-brands.svg" height="30px" width="30px"/>
 - <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/envelope-solid.svg" height="30px" width="30px"/>
+- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/telegram-brands.svg" height="30px" width="30px"/>
+
  
 <!--
 **KailashKS/KailashKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
