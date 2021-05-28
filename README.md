@@ -1,7 +1,5 @@
 ### Hi, I am Kailash <img src="https://raw.githubusercontent.com/KailashKS/KailashKS/main/hand_wave.gif" width="24px"/>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-
 I am currently pursuing **Data Science** from NIIT University. I love working with **Linux Distros**.
   
   - 🔭 Currently working on personal projects involving Three.js and Blender.
@@ -10,11 +8,9 @@ I am currently pursuing **Data Science** from NIIT University. I love working wi
  How to reach me?
 
  <div>
-	<a href="https://www.w3schools.com">
-		<i class="fab fa-linkedin-in"></i>
+	<a href="https://www.linkedin.com/in/kailashks/">
 	</a>
 	&nbsp;
-
  </div>
  
 <!--
