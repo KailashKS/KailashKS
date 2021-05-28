@@ -10,19 +10,19 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
  ### How to reach me?
 <br>
  <div style="padding-left:20px">
-	<a href="https://www.linkedin.com/in/kailashks/">
+	<a href="https://www.linkedin.com/in/kailashks/" style="text-decoration:none">
 		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/linkedin-in-brands.svg" height="30px" width="30px">
 		- @KailashKS
 	</a>
 	<br>
 	<br>
-	<a href="https://www.linkedin.com/in/kailashks/">
+	<a href="" style="text-decoration:none">
 		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/envelope-solid.svg" height="30px" width="30px"/>
 		- karthikkailash6@gmail.com
 	</a>
 	<br>
 	<br>
-	<a href="https://www.linkedin.com/in/kailashks/">
+	<a href="" style="text-decoration:none">
 		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/telegram-brands.svg" height="30px" width="30px"/>
 		- @FruitsPunchSamurai7
 	</a>
