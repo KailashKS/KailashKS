@@ -9,7 +9,7 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
  
  ### How to reach me?
  
-- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/Email.png"/>
+ <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/Email.png" height="30px"/>
 
  
 <!--
