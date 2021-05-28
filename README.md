@@ -14,17 +14,7 @@ I am currently pursuing **Data Science** from NIIT University. I love working wi
 		<i class="fab fa-linkedin-in"></i>
 	</a>
 	&nbsp;
-	<a href="https://www.w3schools.com">
-		<i class="fab fa-github"></i>
-	</a>
-	&nbsp;
-	<a href="https://www.w3schools.com">
-		<i class="fas fa-envelope-square"></i>
-	</a>
-	&nbsp;
-	<a href="https://www.w3schools.com">
-		<i class="fab fa-telegram"></i>
-	</a>
+
  </div>
  
 <!--
