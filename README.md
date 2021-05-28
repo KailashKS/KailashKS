@@ -9,7 +9,7 @@ I am currently pursuing **Data Science** from NIIT University. I love working wi
 
  <div>
 	<a href="https://www.linkedin.com/in/kailashks/" >
-		<img align="center" src="https://raw.githubusercontent.com/KailashKS/KailashKS/916d6f2aa6c8babf1065699bc7e1fbd2f8bc73d3/envelope-solid.svg" height="30px" width="30px" style="color:white"/>
+		<img align="center" src="https://raw.githubusercontent.com/KailashKS/KailashKS/916d6f2aa6c8babf1065699bc7e1fbd2f8bc73d3/envelope-solid.svg" height="30px" width="30px">git ad
 	</a>
 	&nbsp;
 	<a href="https://www.linkedin.com/in/kailashks/">
