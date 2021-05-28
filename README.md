@@ -8,11 +8,8 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
   - 📱 Have experience in Mobile App Development
  
  ### How to reach me?
-
-- <a href="https://www.linkedin.com/in/kailashks/"><img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/linkedin-in-brands.svg" height="30px" width="30px"/></a> 
-
-- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/envelope-solid.svg" height="30px" width="30px"/>
-- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/Email.png" height="30px" width="30px"/>
+ 
+- <img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/Email.png"/>
 
  
 <!--
