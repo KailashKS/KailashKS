@@ -1,4 +1,4 @@
-### Hi, I am Kailash 👋
+### Hi, I am Kailash <img src="https://github.com/KailashKS/KailashKS/blob/main/hand_wave.gif"/>
 
 I am currently pursuing Data Science from NIIT University. I love working with Linux Distros.
   
