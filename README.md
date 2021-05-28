@@ -1,23 +1,30 @@
 ### Hi, I am Kailash <img src="https://raw.githubusercontent.com/KailashKS/KailashKS/main/hand_wave.gif" width="24px"/>
 
-I am currently pursuing **Data Science** from NIIT University. I love working with **Linux Distros**.
+I am currently pursuing **Under Gradutation** from NIIT University specialising in **Data Science**. <br>
   
-  - 🔭 Currently working on personal projects involving Three.js and Blender.
-  - 🌱 Currently learning Probability and Statistics.
+  - 🔭 Currently working on personal projects involving Three.js and Blender
+  - 🌱 Currently learning Probability and Statistics
+  - 🐧 Love working with Linux Distros
+  - 📱 Have experience in Mobile App Development
  
  ### How to reach me?
-
- <div>
-	<a href="https://www.linkedin.com/in/kailashks/" >
+<br>
+ <div style="padding-left:20px">
+	<a href="https://www.linkedin.com/in/kailashks/">
 		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/linkedin-in-brands.svg" height="30px" width="30px">
+		- @KailashKS
 	</a>
-	&nbsp;
+	<br>
+	<br>
 	<a href="https://www.linkedin.com/in/kailashks/">
 		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/envelope-solid.svg" height="30px" width="30px"/>
+		- karthikkailash6@gmail.com
 	</a>
-	&nbsp;
+	<br>
+	<br>
 	<a href="https://www.linkedin.com/in/kailashks/">
 		<img align="center" src="https://github.com/KailashKS/KailashKS/blob/main/telegram-brands.svg" height="30px" width="30px"/>
+		- @FruitsPunchSamurai7
 	</a>
 	&nbsp;
  </div>
