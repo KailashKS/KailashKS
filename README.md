@@ -12,7 +12,6 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
  <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" align="center" src="https://github.com/KailashKS/KailashKS/blob/main/1.png" height="50px"/>
  
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=KailashKS.KailashKS)
 
 
  
