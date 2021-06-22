@@ -1,4 +1,4 @@
-### Hi, I am Kailash! <img src="https://raw.githubusercontent.com/KailashKS/KailashKS/main/hand_wave.gif" width="24px"/>
+### Hi, I am Kailash!
 
 I am currently pursuing **Under Gradutation** from NIIT University specialising in **Data Science**. <br>
   
