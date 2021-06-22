@@ -7,9 +7,9 @@ I am currently pursuing **Under Gradutation** from NIIT University specialising 
   - 🐧 Love working with Linux Distros
   - 📱 Have experience in Mobile App Development
  
- ### How to reach me?
+<!--  ### How to reach me?
  
- <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" align="center" src="https://github.com/KailashKS/KailashKS/blob/main/2.png" height="50px"/>
+ <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" align="center" src="https://github.com/KailashKS/KailashKS/blob/main/2.png" height="50px"/> -->
  
  
 
