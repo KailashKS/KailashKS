@@ -1,6 +1,6 @@
 ### Hi, I am Kailash!
 
-I am currently pursuing **Under Gradutation** from NIIT University specialising in **Data Science**. <br>
+I am currently pursuing **Under Graduation** from NIIT University specialising in **Data Science**. <br>
   
   - 🔭 Currently working on personal projects involving Three.js and Blender
   - 🌱 Currently learning Probability and Statistics
