@@ -7,6 +7,7 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 - 📱 Have experience in Mobile App Development
 - 💻 Have experience in Full Stack Web Development
 
+</br>
 <h1> How to reach me? </h1>
 
 <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
