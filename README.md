@@ -2,10 +2,17 @@
 
 I am currently pursuing **Under Graduation** from NIIT University specialising in **Data Science**. <br>
 
-- 🔭 Currently working on personal projects involving Three.js and Blender
 - 🌱 Currently learning Probability and Statistics
 - 🐧 Love working with Linux Distros
 - 📱 Have experience in Mobile App Development
+- 💻 Have experience in Full Stack Web Development
+
+
+### Languages and Tools:
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
 
 [website]: https://kailashks.github.io
 
