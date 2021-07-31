@@ -6,15 +6,8 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 - 🐧 Love working with Linux Distros
 - 📱 Have experience in Mobile App Development
 - 💻 Have experience in Full Stack Web Development
-
-<br/>
-<h1> How to reach me? </h1>
-
-<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-<img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramlogoColor=white"/>  
-
-# Languages and Tools:
+ 
+### Languages and Tools:
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
@@ -34,6 +27,16 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>  
 
+<br/><br/>
+<h3> How to reach me? </h3>
 
+<p align="left">  
+  <a href="https://www.linkedin.com/in/kailashks/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/kailashks77">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
