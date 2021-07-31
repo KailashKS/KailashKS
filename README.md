@@ -30,27 +30,10 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>  
 
-### How to reach me?
+### Languages and Tools:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kailashks)
+[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kailashks)
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramlogoColor=white">](https://instagram.com/kailashks77)
+[<img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramlogoColor=white"/>](https://instagram.com/kailashks77)
 
-<!--  ### How to reach me?
 
- <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" align="center" src="https://github.com/KailashKS/KailashKS/blob/main/2.png" height="50px"/> -->
-
-<!--
-**KailashKS/KailashKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
