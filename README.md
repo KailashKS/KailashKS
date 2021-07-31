@@ -7,6 +7,11 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 - 📱 Have experience in Mobile App Development
 - 💻 Have experience in Full Stack Web Development
 
+### Languages and Tools:
+
+<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramlogoColor=white"/>
 
 ### Languages and Tools:
 
@@ -29,19 +34,5 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-
-
-
-
-
-
-
-
-
-### Languages and Tools:
-
-[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kailashks)
-
-[<img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramlogoColor=white"/>](https://instagram.com/kailashks77)
 
 
