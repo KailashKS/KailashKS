@@ -1,4 +1,4 @@
-### Hi there, I am [Kailash][website]!
+### Hi there, I am [Kailash](https://kailashks.github.io)!
 
 I am currently pursuing **Under Graduation** from NIIT University specialising in **Data Science**. <br>
 
@@ -9,7 +9,6 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 
 
 ### Languages and Tools:
-
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
@@ -31,8 +30,6 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-[website]: https://kailashks.github.io
-
 ### How to reach me?
 
 <p align='left'>
@@ -43,7 +40,6 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
   <a href="https://instagram.com/kailashks77">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 <!--  ### How to reach me?
