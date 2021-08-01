@@ -4,8 +4,8 @@ I am currently pursuing **Under Graduation** from NIIT University specialising i
 
 - 🌱 Currently learning Probability and Statistics
 - 🐧 Love working with Linux Distros
-- 📱 Have experience in Mobile App Development
-- 💻 Have experience in Full Stack Web Development
+- 📱 Worked with Flutter Framework to develop mobile apps
+- 💻 Developed Web Apps using Django and Flask
  
 ### Languages and Tools:
 
